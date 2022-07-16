@@ -1,7 +1,4 @@
 # wimblepong
-
-# wimblepong
-
 ```mermaid
     flowchart LR;
         1[Samuel Cole\nSamuel Cole]
